@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "852177930449",
+    "project_id": "cryptoemergency-d7a02",
+    "storage_bucket": "cryptoemergency-d7a02.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852177930449:android:50f563efa4939092585df0",
+        "android_client_info": {
+          "package_name": "com.cryptoemergency.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "852177930449-9e1tagbfm1a4lcja5cksmirrd2sibeo7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkytL0vfstFGjliw0WVJNgDykhpPZSLGI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "852177930449-9e1tagbfm1a4lcja5cksmirrd2sibeo7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "852177930449-46m4kh4g1ltcomnfg4sq6l9kdlb1o5am.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "ru.AXAS.CryptoEmergency"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
